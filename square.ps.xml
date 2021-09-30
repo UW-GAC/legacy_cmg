@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+<picture version='3' xmlns:rgml='http://r-project.org/RGML' source='square.ps' date='2016-05-06 09:50:01' creator='R (3.3.0)' >
+
+<path type='fill' id='1'>
+	<context>
+		<rgb r='0.0' g='0.0' b='0.0'/>
+		<style lwd='10.0' lty='' lineend='0' linemitre='10.0' linejoin='0'/>
+	</context>
+
+	<move y='0.0' x='0.0'/>
+	<line y='100.0' x='0.0'/>
+	<line y='100.0' x='100.0'/>
+	<line y='0.0' x='100.0'/>
+	<line y='0.0' x='0.0'/>
+</path>
+
+<summary count='1' ymax='100.0' ymin='0.0' xmax='100.0' xmin='0.0'/>
+
+</picture>
